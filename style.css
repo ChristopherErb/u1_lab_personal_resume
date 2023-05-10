@@ -1,0 +1,32 @@
+.topInfo
+{
+    text-align: center;
+}
+
+#topName
+{
+    font-size: 20px;
+    font-weight:bold;
+    margin-bottom: -14px;
+}
+
+#phoneEmail
+{
+    margin-bottom: -14px;
+}
+
+#git
+{
+    margin-bottom: -14px;
+}
+
+#lIN
+{
+    margin-bottom: 10px;
+}
+
+.headers
+{
+    font:size 20px;
+    font-weight: bold;
+}
